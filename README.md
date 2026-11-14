@@ -29,3 +29,7 @@ There is nothing to install and no keys or accounts to set up. You need push acc
 Edit a file, commit it, and push to `main`. Pages rebuilds the site from there.
 
 To ship a real homepage, add an `index.html` at the root of `main`. It replaces this README on the site. Pages can also be pointed at another branch in the repo's Pages settings.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
